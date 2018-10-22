@@ -1,0 +1,35 @@
+
+<!-- School Dropdown -->
+
+
+<html>
+	<head>
+		<form action="file:///Users/konstantinostzavaras/Desktop/RateMySchedule/Log%20in%20Form%20code/Log_In_Form.html"> <p>What school do you go to?</p> <select name="Schools"> 
+<option value="CSULB">Long Beach</option> <option value="CSULA">LA</option> <option value="CSUSF">San Fernando</option> 
+ </select>
+</form>
+	</head>
+</html>
+
+
+
+
+_________________________________________
+
+<!-- Log in Form-->
+<html>
+
+	<head>
+		<h1> Log in </h1>
+	</head>
+		
+		<body>
+			<h2>Enter UserName and Password</h2>
+
+				<form action="file:///Users/konstantinostzavaras/Desktop/Log_In_Form.html">
+
+				<p> UserName <input type="text" name="UserName" size="15" maxlength="30"> </p>
+				<p> Password <input type="password" name="Password" size="15" maxlength="30"> </p>
+				</form>
+		</body>
+</html>
